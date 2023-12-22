@@ -4,5 +4,5 @@ def addition(x, y):
 def multiplication(x, y):
     return x * y
 
-def multiplication(x, y):
+def Division(x, y):
     return x / y
